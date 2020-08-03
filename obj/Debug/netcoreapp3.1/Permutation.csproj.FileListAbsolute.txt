@@ -1,0 +1,13 @@
+C:\Code\First Module\(2) Permutation\bin\Debug\netcoreapp3.1\Permutation.exe
+C:\Code\First Module\(2) Permutation\bin\Debug\netcoreapp3.1\Permutation.deps.json
+C:\Code\First Module\(2) Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.json
+C:\Code\First Module\(2) Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.dev.json
+C:\Code\First Module\(2) Permutation\bin\Debug\netcoreapp3.1\Permutation.dll
+C:\Code\First Module\(2) Permutation\bin\Debug\netcoreapp3.1\Permutation.pdb
+C:\Code\First Module\(2) Permutation\obj\Debug\netcoreapp3.1\Permutation.csprojAssemblyReference.cache
+C:\Code\First Module\(2) Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfoInputs.cache
+C:\Code\First Module\(2) Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfo.cs
+C:\Code\First Module\(2) Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.CoreCompileInputs.cache
+C:\Code\First Module\(2) Permutation\obj\Debug\netcoreapp3.1\Permutation.dll
+C:\Code\First Module\(2) Permutation\obj\Debug\netcoreapp3.1\Permutation.pdb
+C:\Code\First Module\(2) Permutation\obj\Debug\netcoreapp3.1\Permutation.genruntimeconfig.cache
