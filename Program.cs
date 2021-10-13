@@ -18,19 +18,17 @@ namespace Permutation
             char[] char1 = sentence1.ToCharArray();
             char[] char2 = sentence2.ToCharArray();
 
-            if(sentence1.Length != sentence2.Length){
+            if(sentence1.Length != sentence2.Length) {
                 return false;
             }
 
-            for (int i = 0; i < char1.Length; i++)
-            {
-               ++values[(int)char1[i]];
+            foreach(var chr1 in char1) {
+               ++values[(int)chr1];
             }
 
-            for (int i = 0; i < char2.Length; i++)
-            {
-                --values[(int)char2[i]];
-                if(values[(int)char2[i]] < 0)
+            foreach(var chr2 in char2) {
+                --values[(int)chr2];
+                if(values[(int)chr2] < 0)
                     return false;
             }
 
